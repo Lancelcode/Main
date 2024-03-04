@@ -17,4 +17,7 @@ public class ElectricVehicle extends Vehicle
     }
 }
 
-/* example
+/*
+ example
+ *
+*/
