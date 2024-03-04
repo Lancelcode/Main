@@ -16,3 +16,5 @@ public class ElectricVehicle extends Vehicle
         return chargeCost / range;
     }
 }
+
+/* example
